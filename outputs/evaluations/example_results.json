@@ -1,0 +1,43 @@
+{
+  "results": {
+    "subtask1a": {
+      "SV": {
+        "precision": 0.6742509015772573,
+        "recall": 0.11548613436982033,
+        "fcubed": 0.18905192333333407
+      },
+      "average": {
+        "precision": 0.6742509015772573,
+        "recall": 0.11548613436982033,
+        "fcubed": 0.18905192333333407
+      }
+    },
+    "subtask1b": {
+      "SV": 0.15291845625518283,
+      "average": 0.15291845625518283
+    },
+    "subtask2": {
+      "SV": 0.4422180107796946,
+      "average": 0.4422180107796946
+    }
+  },
+  "errors": [],
+  "logs": [
+    {
+      "level": "info",
+      "message": "Found 2 files in submission."
+    },
+    {
+      "level": "info",
+      "language": "SV",
+      "subtask": "subtask1",
+      "message": "Evaluation completed successfully."
+    },
+    {
+      "level": "info",
+      "language": "SV",
+      "subtask": "subtask2",
+      "message": "Evaluation completed successfully."
+    }
+  ]
+}

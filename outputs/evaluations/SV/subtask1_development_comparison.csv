@@ -1,0 +1,4 @@
+approach,1a_F1,1b_Spearman
+Single-cluster baseline,0.7563415432223628,
+"XL-LEXEME + hierarchical, cutoff 0.4",0.8108291081721418,0.5620164713399316
+"XLM-RoBERTa + hierarchical, cutoff 0.010",0.6347867126496856,0.6413395401161109

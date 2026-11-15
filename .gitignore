@@ -1,0 +1,11 @@
+# Local machine and editor files
+.DS_Store
+.idea/
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+
+# Downloaded upstream repositories (setup is documented in src/evaluation/README.md).
+/src/evaluation/semeval2027-task3/
+/src/evaluation/python-bcubed/

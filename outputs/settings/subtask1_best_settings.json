@@ -1,0 +1,25 @@
+{
+  "embedding_model": "pierluigic/xl-lexeme",
+  "clustering": "AgglomerativeClustering",
+  "metric": "cosine",
+  "linkage": "average",
+  "distance_cutoff": 0.4,
+  "labels_per_usage": 1,
+  "tuning_words": [
+    "motiv",
+    "kvinna",
+    "fru",
+    "fröken",
+    "förort",
+    "skär",
+    "suga"
+  ],
+  "reserved_words": [
+    "dumpa",
+    "exportera",
+    "herre"
+  ],
+  "development_1a_F1": 0.8108291081721418,
+  "development_1b_Spearman": 0.5620164713399316,
+  "evaluation_note": "Reserved words were evaluated repeatedly; results are exploratory."
+}
